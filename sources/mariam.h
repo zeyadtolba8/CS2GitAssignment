@@ -1,8 +1,4 @@
-#include<iostream>
-using namespace std;
-
-void mariam606()
-{
-	cout <<"Mariam" << endl;
-	cout<<"mariam_fawzy@aucegypt.edu" << endl;
-}
+#ifndef YOURNAME_H
+#define YOURNAME_H
+void mariam606();
+#endif
