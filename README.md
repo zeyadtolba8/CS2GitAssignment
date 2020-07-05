@@ -1,4 +1,4 @@
-# CS2GitAssinment
+# CS2GitAssignment
 Git (group work) assignment 
 1- Zeyad Tolba 
 2- Mariam Fawzy 
