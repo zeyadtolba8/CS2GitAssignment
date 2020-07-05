@@ -1,4 +1,4 @@
-#include "yourname.h"
+#include "mark.h"
 void markadil2001()
 {
 	cout<<"Mark George"<<endl;
